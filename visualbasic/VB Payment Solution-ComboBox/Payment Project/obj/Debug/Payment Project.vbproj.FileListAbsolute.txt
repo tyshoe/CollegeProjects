@@ -1,0 +1,34 @@
+E:\VB2017\Chap05\Payment Solution\Payment Project\bin\Debug\Payment Project.exe.config
+E:\VB2017\Chap05\Payment Solution\Payment Project\bin\Debug\Payment Project.exe
+E:\VB2017\Chap05\Payment Solution\Payment Project\bin\Debug\Payment Project.pdb
+E:\VB2017\Chap05\Payment Solution\Payment Project\bin\Debug\Payment Project.xml
+E:\VB2017\Chap05\Payment Solution\Payment Project\obj\Debug\Payment Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap05\Payment Solution\Payment Project\obj\Debug\Payment_Project.frmMain.resources
+E:\VB2017\Chap05\Payment Solution\Payment Project\obj\Debug\Payment_Project.Resources.resources
+E:\VB2017\Chap05\Payment Solution\Payment Project\obj\Debug\Payment Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap05\Payment Solution\Payment Project\obj\Debug\Payment Project.exe
+E:\VB2017\Chap05\Payment Solution\Payment Project\obj\Debug\Payment Project.xml
+E:\VB2017\Chap05\Payment Solution\Payment Project\obj\Debug\Payment Project.pdb
+E:\VB2017\Chap06\Payment Solution\Payment Project\bin\Debug\Payment Project.exe.config
+E:\VB2017\Chap06\Payment Solution\Payment Project\bin\Debug\Payment Project.exe
+E:\VB2017\Chap06\Payment Solution\Payment Project\bin\Debug\Payment Project.pdb
+E:\VB2017\Chap06\Payment Solution\Payment Project\bin\Debug\Payment Project.xml
+E:\VB2017\Chap06\Payment Solution\Payment Project\obj\Debug\Payment Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap06\Payment Solution\Payment Project\obj\Debug\Payment_Project.frmMain.resources
+E:\VB2017\Chap06\Payment Solution\Payment Project\obj\Debug\Payment_Project.Resources.resources
+E:\VB2017\Chap06\Payment Solution\Payment Project\obj\Debug\Payment Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap06\Payment Solution\Payment Project\obj\Debug\Payment Project.exe
+E:\VB2017\Chap06\Payment Solution\Payment Project\obj\Debug\Payment Project.xml
+E:\VB2017\Chap06\Payment Solution\Payment Project\obj\Debug\Payment Project.pdb
+C:\School\Chap06\Chap06\Payment Solution-ComboBox\Payment Project\bin\Debug\Payment Project.exe.config
+C:\School\Chap06\Chap06\Payment Solution-ComboBox\Payment Project\bin\Debug\Payment Project.exe
+C:\School\Chap06\Chap06\Payment Solution-ComboBox\Payment Project\bin\Debug\Payment Project.pdb
+C:\School\Chap06\Chap06\Payment Solution-ComboBox\Payment Project\bin\Debug\Payment Project.xml
+C:\School\Chap06\Chap06\Payment Solution-ComboBox\Payment Project\obj\Debug\Payment Project.vbproj.AssemblyReference.cache
+C:\School\Chap06\Chap06\Payment Solution-ComboBox\Payment Project\obj\Debug\Payment_Project.frmMain.resources
+C:\School\Chap06\Chap06\Payment Solution-ComboBox\Payment Project\obj\Debug\Payment_Project.Resources.resources
+C:\School\Chap06\Chap06\Payment Solution-ComboBox\Payment Project\obj\Debug\Payment Project.vbproj.GenerateResource.cache
+C:\School\Chap06\Chap06\Payment Solution-ComboBox\Payment Project\obj\Debug\Payment Project.vbproj.CoreCompileInputs.cache
+C:\School\Chap06\Chap06\Payment Solution-ComboBox\Payment Project\obj\Debug\Payment Project.exe
+C:\School\Chap06\Chap06\Payment Solution-ComboBox\Payment Project\obj\Debug\Payment Project.xml
+C:\School\Chap06\Chap06\Payment Solution-ComboBox\Payment Project\obj\Debug\Payment Project.pdb

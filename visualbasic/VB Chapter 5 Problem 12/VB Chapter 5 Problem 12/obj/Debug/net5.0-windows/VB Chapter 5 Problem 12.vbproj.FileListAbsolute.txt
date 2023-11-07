@@ -1,0 +1,36 @@
+C:\Users\Tyler\source\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\bin\Debug\net5.0-windows\VB Chapter 5 Problem 12.exe
+C:\Users\Tyler\source\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\bin\Debug\net5.0-windows\VB Chapter 5 Problem 12.deps.json
+C:\Users\Tyler\source\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\bin\Debug\net5.0-windows\VB Chapter 5 Problem 12.runtimeconfig.json
+C:\Users\Tyler\source\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\bin\Debug\net5.0-windows\VB Chapter 5 Problem 12.runtimeconfig.dev.json
+C:\Users\Tyler\source\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\bin\Debug\net5.0-windows\VB Chapter 5 Problem 12.dll
+C:\Users\Tyler\source\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\bin\Debug\net5.0-windows\ref\VB Chapter 5 Problem 12.dll
+C:\Users\Tyler\source\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\bin\Debug\net5.0-windows\VB Chapter 5 Problem 12.pdb
+C:\Users\Tyler\source\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\obj\Debug\net5.0-windows\VB Chapter 5 Problem 12.vbproj.AssemblyReference.cache
+C:\Users\Tyler\source\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\obj\Debug\net5.0-windows\VB_Chapter_5_Problem_12.Form1.resources
+C:\Users\Tyler\source\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\obj\Debug\net5.0-windows\VB Chapter 5 Problem 12.vbproj.GenerateResource.cache
+C:\Users\Tyler\source\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\obj\Debug\net5.0-windows\VB Chapter 5 Problem 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler\source\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\obj\Debug\net5.0-windows\VB Chapter 5 Problem 12.AssemblyInfoInputs.cache
+C:\Users\Tyler\source\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\obj\Debug\net5.0-windows\VB Chapter 5 Problem 12.AssemblyInfo.vb
+C:\Users\Tyler\source\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\obj\Debug\net5.0-windows\VB Chapter 5 Problem 12.vbproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\obj\Debug\net5.0-windows\VB Chapter 5 Problem 12.dll
+C:\Users\Tyler\source\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\obj\Debug\net5.0-windows\ref\VB Chapter 5 Problem 12.dll
+C:\Users\Tyler\source\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\obj\Debug\net5.0-windows\VB Chapter 5 Problem 12.pdb
+C:\Users\Tyler\source\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\obj\Debug\net5.0-windows\VB Chapter 5 Problem 12.genruntimeconfig.cache
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\bin\Debug\net5.0-windows\VB Chapter 5 Problem 12.exe
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\bin\Debug\net5.0-windows\VB Chapter 5 Problem 12.deps.json
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\bin\Debug\net5.0-windows\VB Chapter 5 Problem 12.runtimeconfig.json
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\bin\Debug\net5.0-windows\VB Chapter 5 Problem 12.runtimeconfig.dev.json
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\bin\Debug\net5.0-windows\VB Chapter 5 Problem 12.dll
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\bin\Debug\net5.0-windows\VB Chapter 5 Problem 12.pdb
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\obj\Debug\net5.0-windows\VB Chapter 5 Problem 12.vbproj.AssemblyReference.cache
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\obj\Debug\net5.0-windows\VB_Chapter_5_Problem_12.Form1.resources
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\obj\Debug\net5.0-windows\VB Chapter 5 Problem 12.vbproj.GenerateResource.cache
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\obj\Debug\net5.0-windows\VB Chapter 5 Problem 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\obj\Debug\net5.0-windows\VB Chapter 5 Problem 12.AssemblyInfoInputs.cache
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\obj\Debug\net5.0-windows\VB Chapter 5 Problem 12.AssemblyInfo.vb
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\obj\Debug\net5.0-windows\VB Chapter 5 Problem 12.vbproj.CoreCompileInputs.cache
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\obj\Debug\net5.0-windows\VB Chapter 5 Problem 12.dll
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\obj\Debug\net5.0-windows\refint\VB Chapter 5 Problem 12.dll
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\obj\Debug\net5.0-windows\VB Chapter 5 Problem 12.pdb
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\obj\Debug\net5.0-windows\VB Chapter 5 Problem 12.genruntimeconfig.cache
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 5 Problem 12\VB Chapter 5 Problem 12\obj\Debug\net5.0-windows\ref\VB Chapter 5 Problem 12.dll

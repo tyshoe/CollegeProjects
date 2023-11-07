@@ -1,0 +1,23 @@
+E:\VB2017\Chap04\Warehouse Solution\Warehouse Project\bin\Debug\Warehouse Project.exe.config
+E:\VB2017\Chap04\Warehouse Solution\Warehouse Project\bin\Debug\Warehouse Project.exe
+E:\VB2017\Chap04\Warehouse Solution\Warehouse Project\bin\Debug\Warehouse Project.pdb
+E:\VB2017\Chap04\Warehouse Solution\Warehouse Project\bin\Debug\Warehouse Project.xml
+E:\VB2017\Chap04\Warehouse Solution\Warehouse Project\obj\Debug\Warehouse Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap04\Warehouse Solution\Warehouse Project\obj\Debug\Warehouse_Project.frmMain.resources
+E:\VB2017\Chap04\Warehouse Solution\Warehouse Project\obj\Debug\Warehouse_Project.Resources.resources
+E:\VB2017\Chap04\Warehouse Solution\Warehouse Project\obj\Debug\Warehouse Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap04\Warehouse Solution\Warehouse Project\obj\Debug\Warehouse Project.exe
+E:\VB2017\Chap04\Warehouse Solution\Warehouse Project\obj\Debug\Warehouse Project.xml
+E:\VB2017\Chap04\Warehouse Solution\Warehouse Project\obj\Debug\Warehouse Project.pdb
+C:\Users\Tyler\Downloads\Chap04\Chap04\Warehouse Solution-If\Warehouse Project\bin\Debug\Warehouse Project.exe.config
+C:\Users\Tyler\Downloads\Chap04\Chap04\Warehouse Solution-If\Warehouse Project\bin\Debug\Warehouse Project.exe
+C:\Users\Tyler\Downloads\Chap04\Chap04\Warehouse Solution-If\Warehouse Project\bin\Debug\Warehouse Project.pdb
+C:\Users\Tyler\Downloads\Chap04\Chap04\Warehouse Solution-If\Warehouse Project\bin\Debug\Warehouse Project.xml
+C:\Users\Tyler\Downloads\Chap04\Chap04\Warehouse Solution-If\Warehouse Project\obj\Debug\Warehouse Project.vbproj.AssemblyReference.cache
+C:\Users\Tyler\Downloads\Chap04\Chap04\Warehouse Solution-If\Warehouse Project\obj\Debug\Warehouse_Project.frmMain.resources
+C:\Users\Tyler\Downloads\Chap04\Chap04\Warehouse Solution-If\Warehouse Project\obj\Debug\Warehouse_Project.Resources.resources
+C:\Users\Tyler\Downloads\Chap04\Chap04\Warehouse Solution-If\Warehouse Project\obj\Debug\Warehouse Project.vbproj.GenerateResource.cache
+C:\Users\Tyler\Downloads\Chap04\Chap04\Warehouse Solution-If\Warehouse Project\obj\Debug\Warehouse Project.vbproj.CoreCompileInputs.cache
+C:\Users\Tyler\Downloads\Chap04\Chap04\Warehouse Solution-If\Warehouse Project\obj\Debug\Warehouse Project.exe
+C:\Users\Tyler\Downloads\Chap04\Chap04\Warehouse Solution-If\Warehouse Project\obj\Debug\Warehouse Project.xml
+C:\Users\Tyler\Downloads\Chap04\Chap04\Warehouse Solution-If\Warehouse Project\obj\Debug\Warehouse Project.pdb

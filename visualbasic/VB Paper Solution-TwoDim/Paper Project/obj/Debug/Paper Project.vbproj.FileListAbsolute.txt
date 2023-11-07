@@ -1,0 +1,23 @@
+E:\VB2017\Chap08\Paper Solution-Parallel\Paper Project\bin\Debug\Paper Project.exe.config
+E:\VB2017\Chap08\Paper Solution-Parallel\Paper Project\bin\Debug\Paper Project.exe
+E:\VB2017\Chap08\Paper Solution-Parallel\Paper Project\bin\Debug\Paper Project.pdb
+E:\VB2017\Chap08\Paper Solution-Parallel\Paper Project\bin\Debug\Paper Project.xml
+E:\VB2017\Chap08\Paper Solution-Parallel\Paper Project\obj\Debug\Paper Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap08\Paper Solution-Parallel\Paper Project\obj\Debug\Paper_Project.frmMain.resources
+E:\VB2017\Chap08\Paper Solution-Parallel\Paper Project\obj\Debug\Paper_Project.Resources.resources
+E:\VB2017\Chap08\Paper Solution-Parallel\Paper Project\obj\Debug\Paper Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap08\Paper Solution-Parallel\Paper Project\obj\Debug\Paper Project.exe
+E:\VB2017\Chap08\Paper Solution-Parallel\Paper Project\obj\Debug\Paper Project.xml
+E:\VB2017\Chap08\Paper Solution-Parallel\Paper Project\obj\Debug\Paper Project.pdb
+C:\Users\Tyler\Downloads\Chap08\Chap08\Paper Solution-TwoDim\Paper Project\bin\Debug\Paper Project.exe.config
+C:\Users\Tyler\Downloads\Chap08\Chap08\Paper Solution-TwoDim\Paper Project\bin\Debug\Paper Project.exe
+C:\Users\Tyler\Downloads\Chap08\Chap08\Paper Solution-TwoDim\Paper Project\bin\Debug\Paper Project.pdb
+C:\Users\Tyler\Downloads\Chap08\Chap08\Paper Solution-TwoDim\Paper Project\bin\Debug\Paper Project.xml
+C:\Users\Tyler\Downloads\Chap08\Chap08\Paper Solution-TwoDim\Paper Project\obj\Debug\Paper Project.vbproj.AssemblyReference.cache
+C:\Users\Tyler\Downloads\Chap08\Chap08\Paper Solution-TwoDim\Paper Project\obj\Debug\Paper_Project.frmMain.resources
+C:\Users\Tyler\Downloads\Chap08\Chap08\Paper Solution-TwoDim\Paper Project\obj\Debug\Paper_Project.Resources.resources
+C:\Users\Tyler\Downloads\Chap08\Chap08\Paper Solution-TwoDim\Paper Project\obj\Debug\Paper Project.vbproj.GenerateResource.cache
+C:\Users\Tyler\Downloads\Chap08\Chap08\Paper Solution-TwoDim\Paper Project\obj\Debug\Paper Project.vbproj.CoreCompileInputs.cache
+C:\Users\Tyler\Downloads\Chap08\Chap08\Paper Solution-TwoDim\Paper Project\obj\Debug\Paper Project.exe
+C:\Users\Tyler\Downloads\Chap08\Chap08\Paper Solution-TwoDim\Paper Project\obj\Debug\Paper Project.xml
+C:\Users\Tyler\Downloads\Chap08\Chap08\Paper Solution-TwoDim\Paper Project\obj\Debug\Paper Project.pdb

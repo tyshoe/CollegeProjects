@@ -1,0 +1,36 @@
+C:\Users\Tyler\source\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\bin\Debug\net5.0-windows\VB Chapter 4 Problem 9.exe
+C:\Users\Tyler\source\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\bin\Debug\net5.0-windows\VB Chapter 4 Problem 9.deps.json
+C:\Users\Tyler\source\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\bin\Debug\net5.0-windows\VB Chapter 4 Problem 9.runtimeconfig.json
+C:\Users\Tyler\source\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\bin\Debug\net5.0-windows\VB Chapter 4 Problem 9.runtimeconfig.dev.json
+C:\Users\Tyler\source\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\bin\Debug\net5.0-windows\VB Chapter 4 Problem 9.dll
+C:\Users\Tyler\source\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\bin\Debug\net5.0-windows\ref\VB Chapter 4 Problem 9.dll
+C:\Users\Tyler\source\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\bin\Debug\net5.0-windows\VB Chapter 4 Problem 9.pdb
+C:\Users\Tyler\source\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\obj\Debug\net5.0-windows\VB Chapter 4 Problem 9.vbproj.AssemblyReference.cache
+C:\Users\Tyler\source\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\obj\Debug\net5.0-windows\VB_Chapter_4_Problem_9.Form1.resources
+C:\Users\Tyler\source\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\obj\Debug\net5.0-windows\VB Chapter 4 Problem 9.vbproj.GenerateResource.cache
+C:\Users\Tyler\source\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\obj\Debug\net5.0-windows\VB Chapter 4 Problem 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler\source\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\obj\Debug\net5.0-windows\VB Chapter 4 Problem 9.AssemblyInfoInputs.cache
+C:\Users\Tyler\source\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\obj\Debug\net5.0-windows\VB Chapter 4 Problem 9.AssemblyInfo.vb
+C:\Users\Tyler\source\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\obj\Debug\net5.0-windows\VB Chapter 4 Problem 9.vbproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\obj\Debug\net5.0-windows\VB Chapter 4 Problem 9.dll
+C:\Users\Tyler\source\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\obj\Debug\net5.0-windows\ref\VB Chapter 4 Problem 9.dll
+C:\Users\Tyler\source\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\obj\Debug\net5.0-windows\VB Chapter 4 Problem 9.pdb
+C:\Users\Tyler\source\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\obj\Debug\net5.0-windows\VB Chapter 4 Problem 9.genruntimeconfig.cache
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\bin\Debug\net5.0-windows\VB Chapter 4 Problem 9.exe
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\bin\Debug\net5.0-windows\VB Chapter 4 Problem 9.deps.json
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\bin\Debug\net5.0-windows\VB Chapter 4 Problem 9.runtimeconfig.json
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\bin\Debug\net5.0-windows\VB Chapter 4 Problem 9.runtimeconfig.dev.json
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\bin\Debug\net5.0-windows\VB Chapter 4 Problem 9.dll
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\bin\Debug\net5.0-windows\VB Chapter 4 Problem 9.pdb
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\obj\Debug\net5.0-windows\VB Chapter 4 Problem 9.vbproj.AssemblyReference.cache
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\obj\Debug\net5.0-windows\VB_Chapter_4_Problem_9.Form1.resources
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\obj\Debug\net5.0-windows\VB Chapter 4 Problem 9.vbproj.GenerateResource.cache
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\obj\Debug\net5.0-windows\VB Chapter 4 Problem 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\obj\Debug\net5.0-windows\VB Chapter 4 Problem 9.AssemblyInfoInputs.cache
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\obj\Debug\net5.0-windows\VB Chapter 4 Problem 9.AssemblyInfo.vb
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\obj\Debug\net5.0-windows\VB Chapter 4 Problem 9.vbproj.CoreCompileInputs.cache
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\obj\Debug\net5.0-windows\VB Chapter 4 Problem 9.dll
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\obj\Debug\net5.0-windows\refint\VB Chapter 4 Problem 9.dll
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\obj\Debug\net5.0-windows\VB Chapter 4 Problem 9.pdb
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\obj\Debug\net5.0-windows\VB Chapter 4 Problem 9.genruntimeconfig.cache
+C:\Users\tysho\Downloads\repos\repos\VB Chapter 4 Problem 9\VB Chapter 4 Problem 9\obj\Debug\net5.0-windows\ref\VB Chapter 4 Problem 9.dll

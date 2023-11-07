@@ -1,0 +1,36 @@
+E:\VB2017\Chap08\Waterson Solution\Waterson Project\bin\Debug\Waterson Project.exe.config
+E:\VB2017\Chap08\Waterson Solution\Waterson Project\bin\Debug\Waterson Project.exe
+E:\VB2017\Chap08\Waterson Solution\Waterson Project\bin\Debug\Waterson Project.pdb
+E:\VB2017\Chap08\Waterson Solution\Waterson Project\bin\Debug\Waterson Project.xml
+E:\VB2017\Chap08\Waterson Solution\Waterson Project\obj\Debug\Waterson Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap08\Waterson Solution\Waterson Project\obj\Debug\Waterson_Project.frmMain.resources
+E:\VB2017\Chap08\Waterson Solution\Waterson Project\obj\Debug\Waterson_Project.Resources.resources
+E:\VB2017\Chap08\Waterson Solution\Waterson Project\obj\Debug\Waterson Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap08\Waterson Solution\Waterson Project\obj\Debug\Waterson Project.exe
+E:\VB2017\Chap08\Waterson Solution\Waterson Project\obj\Debug\Waterson Project.xml
+E:\VB2017\Chap08\Waterson Solution\Waterson Project\obj\Debug\Waterson Project.pdb
+C:\Users\Tyler\Downloads\Chap08\Chap08\Waterson Solution-Average\Waterson Project\bin\Debug\Waterson Project.exe.config
+C:\Users\Tyler\Downloads\Chap08\Chap08\Waterson Solution-Average\Waterson Project\bin\Debug\Waterson Project.exe
+C:\Users\Tyler\Downloads\Chap08\Chap08\Waterson Solution-Average\Waterson Project\bin\Debug\Waterson Project.pdb
+C:\Users\Tyler\Downloads\Chap08\Chap08\Waterson Solution-Average\Waterson Project\bin\Debug\Waterson Project.xml
+C:\Users\Tyler\Downloads\Chap08\Chap08\Waterson Solution-Average\Waterson Project\obj\Debug\Waterson Project.vbproj.AssemblyReference.cache
+C:\Users\Tyler\Downloads\Chap08\Chap08\Waterson Solution-Average\Waterson Project\obj\Debug\Waterson_Project.frmMain.resources
+C:\Users\Tyler\Downloads\Chap08\Chap08\Waterson Solution-Average\Waterson Project\obj\Debug\Waterson_Project.Resources.resources
+C:\Users\Tyler\Downloads\Chap08\Chap08\Waterson Solution-Average\Waterson Project\obj\Debug\Waterson Project.vbproj.GenerateResource.cache
+C:\Users\Tyler\Downloads\Chap08\Chap08\Waterson Solution-Average\Waterson Project\obj\Debug\Waterson Project.vbproj.CoreCompileInputs.cache
+C:\Users\Tyler\Downloads\Chap08\Chap08\Waterson Solution-Average\Waterson Project\obj\Debug\Waterson Project.exe
+C:\Users\Tyler\Downloads\Chap08\Chap08\Waterson Solution-Average\Waterson Project\obj\Debug\Waterson Project.xml
+C:\Users\Tyler\Downloads\Chap08\Chap08\Waterson Solution-Average\Waterson Project\obj\Debug\Waterson Project.pdb
+C:\Users\tysho\Downloads\repos\repos\VB Waterson Solution-Average\Waterson Project\bin\Debug\Waterson Project.exe.config
+C:\Users\tysho\Downloads\repos\repos\VB Waterson Solution-Average\Waterson Project\bin\Debug\Waterson Project.exe
+C:\Users\tysho\Downloads\repos\repos\VB Waterson Solution-Average\Waterson Project\bin\Debug\Waterson Project.pdb
+C:\Users\tysho\Downloads\repos\repos\VB Waterson Solution-Average\Waterson Project\bin\Debug\Waterson Project.xml
+C:\Users\tysho\Downloads\repos\repos\VB Waterson Solution-Average\Waterson Project\obj\Debug\Waterson Project.vbproj.AssemblyReference.cache
+C:\Users\tysho\Downloads\repos\repos\VB Waterson Solution-Average\Waterson Project\obj\Debug\Waterson Project.vbproj.SuggestedBindingRedirects.cache
+C:\Users\tysho\Downloads\repos\repos\VB Waterson Solution-Average\Waterson Project\obj\Debug\Waterson_Project.frmMain.resources
+C:\Users\tysho\Downloads\repos\repos\VB Waterson Solution-Average\Waterson Project\obj\Debug\Waterson_Project.Resources.resources
+C:\Users\tysho\Downloads\repos\repos\VB Waterson Solution-Average\Waterson Project\obj\Debug\Waterson Project.vbproj.GenerateResource.cache
+C:\Users\tysho\Downloads\repos\repos\VB Waterson Solution-Average\Waterson Project\obj\Debug\Waterson Project.vbproj.CoreCompileInputs.cache
+C:\Users\tysho\Downloads\repos\repos\VB Waterson Solution-Average\Waterson Project\obj\Debug\Waterson Project.exe
+C:\Users\tysho\Downloads\repos\repos\VB Waterson Solution-Average\Waterson Project\obj\Debug\Waterson Project.xml
+C:\Users\tysho\Downloads\repos\repos\VB Waterson Solution-Average\Waterson Project\obj\Debug\Waterson Project.pdb

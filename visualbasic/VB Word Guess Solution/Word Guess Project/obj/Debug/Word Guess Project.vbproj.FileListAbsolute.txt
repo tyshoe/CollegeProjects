@@ -1,0 +1,36 @@
+E:\VB2017\Chap07\Word Guess Solution\Word Guess Project\bin\Debug\Word Guess Project.exe.config
+E:\VB2017\Chap07\Word Guess Solution\Word Guess Project\bin\Debug\Word Guess Project.exe
+E:\VB2017\Chap07\Word Guess Solution\Word Guess Project\bin\Debug\Word Guess Project.pdb
+E:\VB2017\Chap07\Word Guess Solution\Word Guess Project\bin\Debug\Word Guess Project.xml
+E:\VB2017\Chap07\Word Guess Solution\Word Guess Project\obj\Debug\Word Guess Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap07\Word Guess Solution\Word Guess Project\obj\Debug\Word_Guess_Project.frmMain.resources
+E:\VB2017\Chap07\Word Guess Solution\Word Guess Project\obj\Debug\Word_Guess_Project.Resources.resources
+E:\VB2017\Chap07\Word Guess Solution\Word Guess Project\obj\Debug\Word Guess Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap07\Word Guess Solution\Word Guess Project\obj\Debug\Word Guess Project.exe
+E:\VB2017\Chap07\Word Guess Solution\Word Guess Project\obj\Debug\Word Guess Project.xml
+E:\VB2017\Chap07\Word Guess Solution\Word Guess Project\obj\Debug\Word Guess Project.pdb
+C:\School\Chap07\Chap07\Word Guess Solution\Word Guess Project\obj\Debug\Word Guess Project.vbproj.AssemblyReference.cache
+C:\School\Chap07\Chap07\Word Guess Solution\Word Guess Project\obj\Debug\Word_Guess_Project.frmMain.resources
+C:\School\Chap07\Chap07\Word Guess Solution\Word Guess Project\obj\Debug\Word_Guess_Project.Resources.resources
+C:\School\Chap07\Chap07\Word Guess Solution\Word Guess Project\obj\Debug\Word Guess Project.vbproj.GenerateResource.cache
+C:\School\Chap07\Chap07\Word Guess Solution\Word Guess Project\obj\Debug\Word Guess Project.vbproj.CoreCompileInputs.cache
+C:\School\Chap07\Chap07\Word Guess Solution\Word Guess Project\obj\Debug\Word Guess Project.exe
+C:\School\Chap07\Chap07\Word Guess Solution\Word Guess Project\obj\Debug\Word Guess Project.xml
+C:\School\Chap07\Chap07\Word Guess Solution\Word Guess Project\obj\Debug\Word Guess Project.pdb
+C:\School\Chap07\Chap07\Word Guess Solution\Word Guess Project\bin\Debug\Word Guess Project.exe.config
+C:\School\Chap07\Chap07\Word Guess Solution\Word Guess Project\bin\Debug\Word Guess Project.exe
+C:\School\Chap07\Chap07\Word Guess Solution\Word Guess Project\bin\Debug\Word Guess Project.pdb
+C:\School\Chap07\Chap07\Word Guess Solution\Word Guess Project\bin\Debug\Word Guess Project.xml
+C:\Users\tysho\Downloads\repos\repos\VB Word Guess Solution\Word Guess Project\bin\Debug\Word Guess Project.exe.config
+C:\Users\tysho\Downloads\repos\repos\VB Word Guess Solution\Word Guess Project\bin\Debug\Word Guess Project.exe
+C:\Users\tysho\Downloads\repos\repos\VB Word Guess Solution\Word Guess Project\bin\Debug\Word Guess Project.pdb
+C:\Users\tysho\Downloads\repos\repos\VB Word Guess Solution\Word Guess Project\bin\Debug\Word Guess Project.xml
+C:\Users\tysho\Downloads\repos\repos\VB Word Guess Solution\Word Guess Project\obj\Debug\Word Guess Project.vbproj.AssemblyReference.cache
+C:\Users\tysho\Downloads\repos\repos\VB Word Guess Solution\Word Guess Project\obj\Debug\Word Guess Project.vbproj.SuggestedBindingRedirects.cache
+C:\Users\tysho\Downloads\repos\repos\VB Word Guess Solution\Word Guess Project\obj\Debug\Word_Guess_Project.frmMain.resources
+C:\Users\tysho\Downloads\repos\repos\VB Word Guess Solution\Word Guess Project\obj\Debug\Word_Guess_Project.Resources.resources
+C:\Users\tysho\Downloads\repos\repos\VB Word Guess Solution\Word Guess Project\obj\Debug\Word Guess Project.vbproj.GenerateResource.cache
+C:\Users\tysho\Downloads\repos\repos\VB Word Guess Solution\Word Guess Project\obj\Debug\Word Guess Project.vbproj.CoreCompileInputs.cache
+C:\Users\tysho\Downloads\repos\repos\VB Word Guess Solution\Word Guess Project\obj\Debug\Word Guess Project.exe
+C:\Users\tysho\Downloads\repos\repos\VB Word Guess Solution\Word Guess Project\obj\Debug\Word Guess Project.xml
+C:\Users\tysho\Downloads\repos\repos\VB Word Guess Solution\Word Guess Project\obj\Debug\Word Guess Project.pdb

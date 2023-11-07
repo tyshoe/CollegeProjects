@@ -1,0 +1,23 @@
+E:\VB2017\Chap04\Total Due Solution\Total Due Project\bin\Debug\Total Due Project.exe.config
+E:\VB2017\Chap04\Total Due Solution\Total Due Project\bin\Debug\Total Due Project.exe
+E:\VB2017\Chap04\Total Due Solution\Total Due Project\bin\Debug\Total Due Project.pdb
+E:\VB2017\Chap04\Total Due Solution\Total Due Project\bin\Debug\Total Due Project.xml
+E:\VB2017\Chap04\Total Due Solution\Total Due Project\obj\Debug\Total Due Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap04\Total Due Solution\Total Due Project\obj\Debug\Total_Due_Project.frmMain.resources
+E:\VB2017\Chap04\Total Due Solution\Total Due Project\obj\Debug\Total_Due_Project.Resources.resources
+E:\VB2017\Chap04\Total Due Solution\Total Due Project\obj\Debug\Total Due Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap04\Total Due Solution\Total Due Project\obj\Debug\Total Due Project.exe
+E:\VB2017\Chap04\Total Due Solution\Total Due Project\obj\Debug\Total Due Project.xml
+E:\VB2017\Chap04\Total Due Solution\Total Due Project\obj\Debug\Total Due Project.pdb
+C:\Users\Tyler\Downloads\Chap04\Chap04\Total Due Solution-KeyPress\Total Due Project\bin\Debug\Total Due Project.exe.config
+C:\Users\Tyler\Downloads\Chap04\Chap04\Total Due Solution-KeyPress\Total Due Project\bin\Debug\Total Due Project.exe
+C:\Users\Tyler\Downloads\Chap04\Chap04\Total Due Solution-KeyPress\Total Due Project\bin\Debug\Total Due Project.pdb
+C:\Users\Tyler\Downloads\Chap04\Chap04\Total Due Solution-KeyPress\Total Due Project\bin\Debug\Total Due Project.xml
+C:\Users\Tyler\Downloads\Chap04\Chap04\Total Due Solution-KeyPress\Total Due Project\obj\Debug\Total Due Project.vbproj.AssemblyReference.cache
+C:\Users\Tyler\Downloads\Chap04\Chap04\Total Due Solution-KeyPress\Total Due Project\obj\Debug\Total_Due_Project.frmMain.resources
+C:\Users\Tyler\Downloads\Chap04\Chap04\Total Due Solution-KeyPress\Total Due Project\obj\Debug\Total_Due_Project.Resources.resources
+C:\Users\Tyler\Downloads\Chap04\Chap04\Total Due Solution-KeyPress\Total Due Project\obj\Debug\Total Due Project.vbproj.GenerateResource.cache
+C:\Users\Tyler\Downloads\Chap04\Chap04\Total Due Solution-KeyPress\Total Due Project\obj\Debug\Total Due Project.vbproj.CoreCompileInputs.cache
+C:\Users\Tyler\Downloads\Chap04\Chap04\Total Due Solution-KeyPress\Total Due Project\obj\Debug\Total Due Project.exe
+C:\Users\Tyler\Downloads\Chap04\Chap04\Total Due Solution-KeyPress\Total Due Project\obj\Debug\Total Due Project.xml
+C:\Users\Tyler\Downloads\Chap04\Chap04\Total Due Solution-KeyPress\Total Due Project\obj\Debug\Total Due Project.pdb
